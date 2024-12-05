@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.7ad011be.css",
+    "main.js": "/myportfolio/static/js/main.9fba2158.js",
+    "static/css/64.bba8fa55.chunk.css": "/myportfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.00e7f1b4.chunk.js": "/myportfolio/static/js/64.00e7f1b4.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/myportfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.81978c86.chunk.js": "/myportfolio/static/js/769.81978c86.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/myportfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/resume.pdf": "/myportfolio/static/media/resume.4e68f334f1fb865f0ac1.pdf",
+    "static/media/project-optimize-datainfrastructure.png": "/myportfolio/static/media/project-optimize-datainfrastructure.7d35a63d7cf341186b4d.png",
+    "static/media/Agustina.woff": "/myportfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/afiniti_logo.png": "/myportfolio/static/media/afiniti_logo.c3547c14cefcb6d06ee1.png",
+    "static/media/miami_university_logo.jpg": "/myportfolio/static/media/miami_university_logo.d3018c9ce3f7475b8c0d.jpg",
+    "static/media/manOnTable.svg": "/myportfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/aws-badge.png": "/myportfolio/static/media/aws-badge.1d4d9fa250269a5b5067.png",
+    "static/media/project-sarsabz-asaan.webp": "/myportfolio/static/media/project-sarsabz-asaan.a378b41dddab22d2d97f.webp",
+    "static/media/contactMailDark.svg": "/myportfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/myportfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/project-repo-migration.png": "/myportfolio/static/media/project-repo-migration.32f37552e92a5fe8c899.png",
+    "static/media/project-integration-soltuion.png": "/myportfolio/static/media/project-integration-soltuion.deac8c1bca18cc280ed4.png",
+    "static/media/algoexpert_logo.jpg": "/myportfolio/static/media/algoexpert_logo.ef00b88175c96faa1f20.jpg",
+    "static/media/project-plate-recognition.webp": "/myportfolio/static/media/project-plate-recognition.7ace9c6aff6947b49a05.webp",
+    "static/media/uet-logo.png": "/myportfolio/static/media/uet-logo.86e7c98c15ba64a55e3d.png",
+    "static/media/project-talflow.webp": "/myportfolio/static/media/project-talflow.d0a300e3c16293f82b96.webp",
+    "static/media/skill.svg": "/myportfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/myportfolio/index.html",
+    "static/media/talksCardBack.svg": "/myportfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.7ad011be.css.map": "/myportfolio/static/css/main.7ad011be.css.map",
+    "main.9fba2158.js.map": "/myportfolio/static/js/main.9fba2158.js.map",
+    "64.bba8fa55.chunk.css.map": "/myportfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.00e7f1b4.chunk.js.map": "/myportfolio/static/js/64.00e7f1b4.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/myportfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.81978c86.chunk.js.map": "/myportfolio/static/js/769.81978c86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ad011be.css",
+    "static/js/main.9fba2158.js"
+  ]
+}
